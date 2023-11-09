@@ -12,5 +12,5 @@ There is one more file under the Test directory named example. spec.ts which can
 
 
 
-
+Running as node js executable:
 <img width="997" alt="Output" src="https://github.com/ajithalex/Playwright/assets/46218551/f777210c-627e-4c4c-8a4b-fba396306c12">
