@@ -2,7 +2,7 @@
 const { chromium } = require('playwright');
 
 (async () => {
-  const browser = await chromium.launch({ headless: true }); // Launch the browser
+  const browser = await chromium.launch({ headless: false }); // Launch the browser
   const context = await browser.newContext({
     permissions: ['geolocation']
   });
